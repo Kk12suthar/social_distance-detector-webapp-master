@@ -4,7 +4,8 @@ This is a Flask web app with functionalities of social distancing protocols and 
 HOW TO RUN ??
 1. Clone the repository and install all required libraries and modules 
 2. then simply run the command Flask run in any text editor like VScode or any
-3. it will lead you to a user login page where the correct USERNAME and PASSWORD will be required , to find that simply look in the app.py file the given username and password are stored in a dictionary 
+3. it will lead you to a user login page where the correct USERNAME and PASSWORD will be required , to find that simply look in the app.py file the given username and password are stored in a dictionary.
+4. That will lead you to the home page of our flask app and check out its functionalities.
 
 
 Thats all 
